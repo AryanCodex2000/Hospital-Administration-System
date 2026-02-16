@@ -61,6 +61,7 @@ The Excel dashboard summarizes 30-day readmission performance and key risk facto
 - **Build readmission risk monitoring into operations:** Use this dashboard as a recurring review tool in quality meetings to track trends, evaluate interventions, and continuously refine care pathways.
 
 ---
+## Author & Contact
+- Name: `Aryan Singh`
+- Contact: `aryancodex2000@gmail.com` / [LinkedIn](https://www.linkedin.com/in/aryan-singh2000)
 
-**Author:** `Aryan Singh`  
-**LinkedIn:** [Aryan Singh](https:www.linkedin.com/in/aryan-singh2000)
