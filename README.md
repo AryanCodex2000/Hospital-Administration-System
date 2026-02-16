@@ -1,6 +1,6 @@
 # Hospital-Administration-System
 <div align="center">
-  <img src="HA.PNG" alt="Adecco logo"
+  <img src="HA.png" alt="Adecco logo"
        width="420" height="420"
        style="border-radius: 50%; object-fit: cover;" />
 </div>
@@ -49,7 +49,7 @@ The Excel dashboard summarizes 30-day readmission performance and key risk facto
   - A chart on **number of diagnoses** shows significantly higher readmission risk for patients with **10+ comorbidities**.
 - Built for **hospital administrators, quality teams, and clinical leaders** to spot high-risk cohorts, prioritize resources, and design targeted care pathways.
 
-![Hospital Readmission Dashboard](HA_DATA_DASHBOARD.PNG)
+![Hospital Readmission Dashboard](HA_DATA_DASHBOARD.png)
 
 ---
 
